@@ -1,7 +1,7 @@
 ## CSE15L Account
 First, you need to look up your course-specific CSE 15L account on this website:
 [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).  
-Image 1
+Image 1  
 Under additional accounts you should click the one that starts with "cs15l".   
 In the new window there is a yellow box:  
 Image 2  
@@ -12,10 +12,10 @@ It might take a few minutes to take effect.
 
 ## Visual Studio Code
 I had VScode installed on my laptop since I have been using it before this class (for CSE 8B).   
-However, I will leave the link where it can be installed here: [Link](https://code.visualstudio.com/).
+However, I will leave the link where it can be installed here: [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
 ## Remotely Connecting
-First, ou need to install git. Here is the link for Windows: [Link](https://gitforwindows.org/).  
+First, ou need to install git. Here is the link for Windows: [https://gitforwindows.org/](https://gitforwindows.org/).  
 Then open VScode and open a new terminal:  
 Image 3  
 In the terminal type this command `$ ssh username@ieng6.ucsd.edu` where username is your cs15l username.  
