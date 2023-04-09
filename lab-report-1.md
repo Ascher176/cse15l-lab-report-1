@@ -16,10 +16,12 @@ It might take a few minutes to take effect.
 
 ## Visual Studio Code
 I had VScode installed on my laptop since I have been using it before this class (for CSE 8B).   
-However, I will leave the link where it can be installed here: [https://code.visualstudio.com/](https://code.visualstudio.com/).
+However, I will include the instructions on how I did it.  
+The link where it can be installed: [https://code.visualstudio.com/](https://code.visualstudio.com/).  
+![Image](image4.jpg)
 
 ## Remotely Connecting
-First, ou need to install git. Here is the link for Windows: [https://gitforwindows.org/](https://gitforwindows.org/).  
+First, you need to install git. Here is the link for Windows: [https://gitforwindows.org/](https://gitforwindows.org/).  
 Then open VScode and open a new terminal:  
 Image 3  
 In the terminal type this command `$ ssh username@ieng6.ucsd.edu` where username is your cs15l username.  
