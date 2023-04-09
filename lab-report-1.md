@@ -49,7 +49,7 @@ After that you will see something like this:
 
 ## Run Some Commands
 Your terminal is now remotely connected to the server and you can run different commands.  
-Here is a list of command I tried:
+Here is a list of commands I tried:
 * cd ~
 * cd
 * ls -lat
@@ -61,15 +61,15 @@ Here is a list of command I tried:
 The result:  
 ![Image](image10.jpg)   
   
-We can try other commands as well. For example, we can look up the absolute path to our current directory (pwd)  
-or see the list of CSE15L students' usernames (ls):  
+We can try other commands as well. For example, we can look up the absolute path to our current directory (_pwd_)  
+or see the list of CSE15L students' usernames (_ls_):  
 ![Image](image11.jpg)   
   
 We don't have access to directories of other students (we get "Permission denied" message if we try to access them),  
-but we can look up what is in "public" directory and read one of the files with the "cat" command:  
+but we can look up what is in "public" directory and read one of the files with the _cat_ command:  
 ![Image](image12.jpg)   
   
-You can run the command _exit_ to log out of the remote server or create a new terminal and try the same commands on your computer.  
+You can run the command _exit_ to log out of the remote server or create a new terminal and try the same commands on your own computer.  
 My result:   
 ![Image](image13.jpg)   
   
