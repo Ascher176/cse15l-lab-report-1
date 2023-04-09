@@ -6,10 +6,10 @@ First, you need to look up your course-specific CSE 15L account on this website:
 Under additional accounts you should click the one that starts with "cs15l":  
 ![Image](image3.jpg)  
    
-In the new window copy your username and click "Proceed to the Password Change Tool":  
+In the new window copy your username and click "Global Password Change Tool":  
 ![Image](image2.jpg)  
    
-Follow the instructions to reset the password.     
+Click "Proceed to the Password Change Tool" and follow the instructions to reset the password.     
 When you are asked to enter your username make sure to put your cs15l username you have just copied.    
 After you click the "Finish password setup" button you are done with the password reset.     
 It might take a few minutes to take effect.     
