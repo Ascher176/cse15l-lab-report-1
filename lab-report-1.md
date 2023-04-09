@@ -21,7 +21,8 @@ The link where it can be installed: [https://code.visualstudio.com/](https://cod
 After opening the website you should click this:  
 ![Image](image4.jpg)  
   
-The window will pop up. You should click "Save":  
+The window will pop up. You should click "Save"  
+(but keep in mind where you are saving the file so you can easily find it. I am saving it on my Desktop):  
 ![Image](image5.jpg)  
    
 Open the installer you have just downloaded and follow the instructions.  
