@@ -1,15 +1,18 @@
 ## CSE15L Account
 First, you need to look up your course-specific CSE 15L account on this website:
 [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php):    
-![Image](image1.jpg)   
+![Image](image1.jpg) 
+   
 Under additional accounts you should click the one that starts with "cs15l":  
-![Image](image3.jpg)   
-In the new window there is a yellow box:  
+![Image](image3.jpg)  
+   
+In the new window copy your username and click "Proceed to the Password Change Tool":  
 ![Image](image2.jpg)  
-Then click "Proceed to the Password Change Tool" and follow the instructions.   
-When you are asked to enter your username make sure to put your cs15l username you have just copied.  
-After you click the "Finish password setup" button you are done with the password reset.  
-It might take a few minutes to take effect.  
+   
+Follow the instructions to reset the password.     
+When you are asked to enter your username make sure to put your cs15l username you have just copied.    
+After you click the "Finish password setup" button you are done with the password reset.     
+It might take a few minutes to take effect.     
 
 ## Visual Studio Code
 I had VScode installed on my laptop since I have been using it before this class (for CSE 8B).   
