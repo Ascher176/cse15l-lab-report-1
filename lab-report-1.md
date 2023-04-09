@@ -16,7 +16,7 @@ It might take a few minutes to take effect.
 
 ## Visual Studio Code
 I had VScode installed on my laptop since I have been using it before this class (for CSE 8B).   
-However, I will include the instructions on how I did it.  
+However, I will include the instructions on how I installed it.  
 The link where it can be installed: [https://code.visualstudio.com/](https://code.visualstudio.com/).  
 ![Image](image4.jpg)
 
