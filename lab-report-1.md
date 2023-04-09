@@ -16,9 +16,17 @@ It might take a few minutes to take effect.
 
 ## Visual Studio Code
 I had VScode installed on my laptop since I have been using it before this class (for CSE 8B).   
-However, I will include the instructions on how I installed it.  
+However, I will include the instructions on how I installed it (I am working on Windows).  
 The link where it can be installed: [https://code.visualstudio.com/](https://code.visualstudio.com/).  
-![Image](image4.jpg)
+After opening the website you should click this:  
+![Image](image4.jpg)  
+  
+The window will pop up. You should click "Save":  
+![Image](image5.jpg)  
+   
+Open the installer you have just downloaded and follow the instructions.  
+When it is installed you should be able to open this window:  
+![Image](image6.jpg) 
 
 ## Remotely Connecting
 First, you need to install git. Here is the link for Windows: [https://gitforwindows.org/](https://gitforwindows.org/).  
