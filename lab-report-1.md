@@ -51,7 +51,7 @@ After that you will see something like this:
 ## Run Some Commands
 Your terminal is now remotely connected to the server and you can run different commands.  
 Here is a list of commands I tried:
-* __cd ~__ (_cd_ - change directory, ~ - home directory)
+* **cd ~** (_cd_ - change directory, ~ - home directory)
 * __cd__
 * __ls -lat__ (_ls_ - list files and folders)
 * __ls -a__
