@@ -49,7 +49,7 @@ After that you will see something like this:
 
 ## Run Some Commands
 Your terminal is now remotely connected to the server and you can run different commands.  
-Here is a list of command I tried:  
+Here is a list of command I tried:
 * cd ~
 * cd
 * ls -lat
@@ -58,12 +58,26 @@ Here is a list of command I tried:
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 The result:  
-Image 5  
-
+![Image](image10.jpg)   
+  
+We can try other command as well. For example, we can look up the absolute path to our current directory (pwd)  
+or see the list of CSE15L students' usernames (ls):  
+![Image](image11.jpg)   
+  
+We don't have access to directories of other students (we get "Permission denied" message if we try to access them),  
+but we can look up what is in "public" directory and read one of the files with the "cat" command:  
+![Image](image12.jpg)   
+  
 You can run the command _exit_ to log out of the remote server or create a new terminal and try the same commands on your computer.  
 My result:   
-Image 6  
-
+![Image](image13.jpg)   
+  
+We get error messages since my computer has different files which are stored in the different way.  
+We can try other commands on my computer:  
+![Image](image14.jpg)   
+![Image](image15.jpg)   
+  
+Thank you for reading! :cherry_blossom:
 
 
 
