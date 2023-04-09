@@ -56,7 +56,7 @@ Here is a list of command I tried:
 * ls -a
 * ls /home/linux/ieng6/cs15lsp23/cs15lsp23ly (cs15lsp23ly - username of one of my groupmates)  
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt  
 The result:  
 ![Image](image10.jpg)   
   
