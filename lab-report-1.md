@@ -9,7 +9,8 @@ Under additional accounts you should click the one that starts with "cs15l":
 In the new window copy your username and click "Global Password Change Tool":  
 ![Image](image2.jpg)  
    
-Click "Proceed to the Password Change Tool". When you are asked to enter your username make sure to put your cs15l username you have just copied.       
+Click "Proceed to the Password Change Tool".   
+When you are asked to enter your username make sure to put your cs15l username you have just copied.       
 Follow the instructions. After you click the "Finish password setup" button you are done with the password reset.       
 It might take a few minutes to take effect.     
 
