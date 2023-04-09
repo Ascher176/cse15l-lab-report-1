@@ -1,7 +1,7 @@
 ## CSE15L Account
 First, you need to look up your course-specific CSE 15L account on this website:
 [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).  
-Image 1  
+![Image](image1.jpg)  
 Under additional accounts you should click the one that starts with "cs15l".   
 In the new window there is a yellow box:  
 Image 2  
