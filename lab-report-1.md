@@ -66,7 +66,7 @@ or see the list of CSE15L students' usernames (_ls_):
 ![Image](image11.jpg)   
   
 We don't have access to directories of other students (we get "Permission denied" message if we try to access them),  
-but we can look up what is in "public" directory and read one of the files with the _cat_ command:  
+but we can look up what is in the "public" directory and read one of the files with the _cat_ command:  
 ![Image](image12.jpg)   
   
 You can run the command _exit_ to log out of the remote server or create a new terminal and try the same commands on your own computer.  
