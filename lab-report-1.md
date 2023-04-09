@@ -31,15 +31,21 @@ When it is installed you should be able to open this window:
 
 ## Remotely Connecting
 First, you need to install git. Here is the link for Windows: [https://gitforwindows.org/](https://gitforwindows.org/).  
+After opening the link click download:  
+![Image](image7.jpg) 
+  
+The window will pop up, click "Save".  
+Open the installer and follow the instructions.    
 Then open VScode and open a new terminal:  
-Image 3  
+![Image](image8.jpg)  
+  
 In the terminal type this command `$ ssh username@ieng6.ucsd.edu` where username is your cs15l username.  
 (The dollar sign is used to indicate that what follows is a command, it should not be typed in.)  
 Type in "yes" when asked if you are sure you want to connect.  
 Then you will be asked for password. Type in the password you have created in the first step.   
 You cannot see what are you typing in the command line for security reasons.  
 After that you will see something like this:   
-Image 4
+![Image](image9.jpg) 
 
 ## Run Some Commands
 Your terminal is now remotely connected to the server and you can run different commands.  
