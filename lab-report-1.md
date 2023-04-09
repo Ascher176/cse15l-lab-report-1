@@ -63,7 +63,7 @@ The result:
 ![Image](image10.jpg)   
   
 We can try other commands as well. For example, we can look up the absolute path to our current directory (_pwd_)  
-or see the list of CSE15L students' usernames (_ls_):  
+or see the list of CSE15L students' usernames (_ls_) (.. - the directory "outside"/"above"):  
 ![Image](image11.jpg)   
   
 We don't have access to directories of other students (we get "Permission denied" message if we try to access them),  
