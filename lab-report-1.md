@@ -79,7 +79,7 @@ We can try other commands on my computer:
 ![Image](image14.jpg)   
 ![Image](image15.jpg)   
   
-Thank you for reading! :cherry_blossom:
+Thank you for reading!
 
 
 
