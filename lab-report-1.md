@@ -51,14 +51,14 @@ After that you will see something like this:
 ## Run Some Commands
 Your terminal is now remotely connected to the server and you can run different commands.  
 Here is a list of commands I tried:
-* **cd ~**  (_cd_ - change directory, ~ - home directory)
-* __cd__
-* __ls -lat__ (_ls_ - list files and folders)
-* __ls -a__
-* __ls /home/linux/ieng6/cs15lsp23/cs15lsp23ly__ (cs15lsp23ly - username of one of my groupmates)  
-* __cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/__
-* __cat /home/linux/ieng6/cs15lsp23/public/hello.txt__ (_cat_ - print contents of files)  
-  
+* cd ~ (_cd_ - change directory, ~ - home directory)
+* cd
+* ls -lat (_ls_ - list files and folders)
+* ls -a
+* ls /home/linux/ieng6/cs15lsp23/cs15lsp23ly (cs15lsp23ly - username of one of my groupmates)  
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt (_cat_ - print contents of files)  
+ 
 The result:  
 ![Image](image10.jpg)   
   
